@@ -1,3 +1,4 @@
+// Console.Log
 // You can use console.log() to print to the console
 console.log("Hello, World!");
 
@@ -14,6 +15,8 @@ console.log(3 - 2);
 console.log(3 * 2);
 console.log(3 / 2);
 
+
+// Data Types
 // Their are data types
 console.log(typeof "Hello World!");
 console.log(typeof true);
@@ -21,6 +24,8 @@ console.log(typeof 67);
 console.log(typeof null);
 console.log(typeof undefined);
 
+
+// Variables
 // You can use variable to store data
 var firstName = "Troy"
 console.log(firstName);
